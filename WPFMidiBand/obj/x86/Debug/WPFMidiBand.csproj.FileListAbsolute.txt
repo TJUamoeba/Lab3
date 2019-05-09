@@ -1,0 +1,90 @@
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\BassDrum.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\DrumSet.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\FloorTom.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\Guitar.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\guitar_icon.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\HiHat.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\HiHatFixed.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\HiHatTop.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\RideCymbal.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\SnareDrum.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\Tom1.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Images\Tom2.png
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Beat It.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Billy Jean.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Bizarre Love Triangle.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Black Dog.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Black Mountain Side.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Blitzkrieg_Bop.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Blue Monday 2.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Blue Monday.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Ceremony.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Close To Me.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Dancing_Queen.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\dont stop believing.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Enter Sandman.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Friday Im In Love.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Helter Skelter.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Higher Ground.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\How Many More Times.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Iron Man.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\I_Wanna_Be_Sedated.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Kashmir.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Lullaby.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Manic Depression.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Moby Dick.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\NothingElseMatters.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Paranoid.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Perfect Kiss.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Poker Face.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Rock And Roll.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\SadButTrue.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Seven Nation Army.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Smoke On The Water.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Stairway To Heaven.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Sunday Bloody Sunday.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Sweet Child O Mine.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\The Lemon Song.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Thriller.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\Under Pressure.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\We Will Rock Youwwry.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\With Or Without You.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Midis\World.mid
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\WPFMidiBand.exe.config
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\WPFMidiBand.exe
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\WPFMidiBand.pdb
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Sanford.Collections.dll
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Sanford.Multimedia.dll
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Sanford.Multimedia.Midi.WPF.dll
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Sanford.Multimedia.Timers.dll
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\bin\Debug\Sanford.Threading.dll
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csprojAssemblyReference.cache
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\BassControl.baml
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.baml
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.baml
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.baml
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.baml
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\BassControl.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\MainWindow.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Window1.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\App.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand_Content.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.cache
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.lref
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.baml
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\MainWindow.baml
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Window1.baml
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand.g.resources
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand.Properties.Resources.resources
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.GenerateResource.cache
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CoreCompileInputs.cache
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CopyComplete
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand.exe
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\WPFMidiBand.pdb
+F:\Amoe\Lab\MiDiBand\WPFMidiBand\obj\x86\Debug\Themes\Generic.baml
